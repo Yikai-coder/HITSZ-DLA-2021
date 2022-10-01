@@ -5,3 +5,7 @@
 实验涉及到的知识面比较广，需要C++与python协同，同时需要掌握hls的特性，并在此基础上进行优化。
 
 网络上相关的资料不太完善，特别是优化部分比较困难。
+
+实验指导书地址：[https://hitsz-cslab.gitee.io/dla/](https://hitsz-cslab.gitee.io/dla/)
+
+实验仓库地址：[https://gitee.com/hitsz-cslab/dla](https://gitee.com/hitsz-cslab/dla)
